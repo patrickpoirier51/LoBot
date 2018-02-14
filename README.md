@@ -1,5 +1,8 @@
 # LoBot
-
+The goal of the Robolocust project is to design and implement a robot that 
+avoids obstacles based on a model of the Lobula Giant Movement Detector (LGMD) 
+found in locust brains.
+   
 Source: http://ilab.usc.edu/cgi-bin/secure/viewcvs.cgi/trunk/saliency/src/Robots/LoBot/
 
 Papers:
