@@ -4,7 +4,7 @@ Source: http://ilab.usc.edu/cgi-bin/secure/viewcvs.cgi/trunk/saliency/src/Robots
 
 Papers:
 
-https://scirate.com/arxiv/1801.04530
+https://arxiv.org/pdf/1801.04530.pdf
 
 http://eprints.lincoln.ac.uk/25279/1/20 ... Bfinal.pdf
 
