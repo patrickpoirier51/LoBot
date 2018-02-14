@@ -10,4 +10,4 @@ identically named section. Thus, for example, the Stafford model
 settings will be in the [stafford] section; settings specific to the
 Gabbiani model will be in the [gabbiani] section; so on and so forth.
 
-more in fo onlobot.conf
+more on lobot.conf
